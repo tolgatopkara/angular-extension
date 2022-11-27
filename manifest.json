@@ -1,0 +1,14 @@
+{
+    "name": "Angular Ecosystem Linkhub", 
+    "description": "A Link hub to help Angular Developers",
+    "version": "1.0.0",
+    "manifest_version": 3,
+   
+ 
+  
+    "action": {
+      "default_icon": "angular.png",
+      "default_popup": "/src/popup.html"
+    }
+  }
+  
