@@ -3,8 +3,13 @@
  ## Install extension
 
 
-1) Open the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions "Chrome Web Store")
-2) Select "basic-extention-linkhub" folder
-3) Click Add to Chrome
-4) To use the extension, click the icon to the right of the address bar. [for more information]( https://support.google.com/chrome_webstore/answer/2664769?hl=en#zippy=%2Cinstall-with-a-windows-or-mac-application "Chrome Web Store Help")
+1) Open a new Google Chrome tab
+2) Navigate to [chrome://extensions/]()
+3) Enable Developer Mode
+4) Click on LOAD UNPACKED and select Chrome/Extension folder
+5) Select "basic-extention-linkhub" folder
+6) Click Add to Chrome
+7) To use the extension, click the icon to the right of the address bar. [for more information]( https://support.google.com/chrome_webstore/answer/2664769?hl=en#zippy=%2Cinstall-with-a-windows-or-mac-application "Chrome Web Store Help")
  
+ 
+  
