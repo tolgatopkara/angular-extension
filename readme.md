@@ -1,5 +1,5 @@
 # basic-extention-linkhub
- a basic linkhub extention
+ a basic linkhub extention for help <img src="angular.png" width="30" height="30"> developers
  ## Install extension
 
 
@@ -7,3 +7,4 @@
 2) Select "basic-extention-linkhub" folder
 3) Click Add to Chrome
 4) To use the extension, click the icon to the right of the address bar. [for more information]( https://support.google.com/chrome_webstore/answer/2664769?hl=en#zippy=%2Cinstall-with-a-windows-or-mac-application "Chrome Web Store Help")
+ 
