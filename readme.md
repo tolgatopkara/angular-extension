@@ -1,5 +1,7 @@
 # basic-extention-linkhub
  a basic linkhub extention for help <img src="angular.png" width="30" height="30"> developers
+ ![ng-linkhub](https://user-images.githubusercontent.com/65635988/209994327-2a04fc24-db8e-4aad-9d66-219bfdf763c8.gif)
+
  ## Install extension
 
 
